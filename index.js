@@ -20,5 +20,7 @@ const sayHiToGrandma = str => {
   } else if(str === shout(str)){
     return 'YES INDEED!';
   }
-  if(str === 'I love you, Grandma')
+  if(str === 'I love you, Grandma.'){
+    return 'I love you, too.'
+  }
 }
