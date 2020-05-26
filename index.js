@@ -2,6 +2,6 @@ const shout = (str) => {
   return str.toUpperCase();
 }
 
-const whispter = str => {
+const whisper = str => {
   return str.toLowerCase();
 }
