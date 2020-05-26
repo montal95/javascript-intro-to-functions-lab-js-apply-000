@@ -1,3 +1,3 @@
-const shout = (string) => {
-  return string.uppercase;
+const shout = (str) => {
+  return str.toUpperCase;
 }
