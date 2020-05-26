@@ -9,3 +9,7 @@ const whisper = str => {
 const logShout = str => {
   return console.log(shout(str));
 }
+
+const logWhisper = str => {
+  return console.log(whisper(str));
+}
